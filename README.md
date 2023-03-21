@@ -3,9 +3,9 @@
 A To-do list app made using Flutter. 
 
 ## Getting Started
-This is my first project in Flutter that I made while learning. 
+My first Flutter App. 
 
-This has been release on the Google PlayStore and has been downloaded in over 11 countries worldwide. 
+This has been released on the Google PlayStore and has been downloaded in over 11 countries worldwide. 
 
 Link:  https://play.google.com/store/apps/details?id=com.SynchronousPremium.synchronous
 
