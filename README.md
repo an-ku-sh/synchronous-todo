@@ -17,3 +17,4 @@ Link:  https://play.google.com/store/apps/details?id=com.SynchronousPremium.sync
 
 This was completed in Novemeber 2020, but uploaded on GitHub on 22nd March 2023. 
  
+https://play.google.com/store/apps/details?id=com.synchronousapps.synchronous_trial
