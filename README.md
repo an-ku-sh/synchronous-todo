@@ -1,16 +1,11 @@
-# synchronous
+# Synchronous  
 
-Synchronous ToDo Premium Version
+A To-do list app made using Flutter. 
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is my first project in Flutter that I made while learning. 
+This has been release on the Google PlayStore and has been downloaded in over 11 countries worldwide. 
+Link:  https://play.google.com/store/apps/details?id=com.SynchronousPremium.synchronous
+[Last Updated on Nov 7 2020]
+This was completed in Novemeber 2020, but uploaded on GitHub on 22nd March 2023. 
+ 
