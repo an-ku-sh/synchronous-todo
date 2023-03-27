@@ -13,8 +13,6 @@ Link:  https://play.google.com/store/apps/details?id=com.SynchronousPremium.sync
 
 ![synchronous-to-do](https://user-images.githubusercontent.com/110815021/226721118-5640e68b-44e4-4498-9adf-0ae597b9db99.png) 
 
-[Last app update submitted on Nov 7 2020]
 
-This was completed in Novemeber 2020, but uploaded on GitHub on 22nd March 2023. 
  
 https://play.google.com/store/apps/details?id=com.synchronousapps.synchronous_trial
